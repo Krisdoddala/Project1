@@ -15,7 +15,7 @@ Step 3 : Extract the Project1 repository to a particular location on your system
 
 Step 4 : Now, open RStudio. Then, Click File>Open File then select the datawrangling.R that's in the repository. Then you should have something like this.
 
-![](images/shot1.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot1.PNG)
 
 Step 5 : Load the dplyr and ggplot2 libraries. 
 
@@ -28,33 +28,33 @@ Step 7 : Next load early colleges data
 
 Step 8 : View early_colleges data. You should have something like this
 
-![](images/shot2.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot2.PNG)
 
 Step 9 : We can see that in the first row and sixth column the sponsorship of Harvard has some extra characters in addition to the Congregational so we need to tidy it
 
 Step 10 : After tidying, we should have something like this
 
-![](images/shot3.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot3.PNG)
 
 Step 11 : We use the select() function to exclude the original name column because it has many NAs
 
-![](images/shot4.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot4.PNG)
 
 Step 12 : We use the filter() function to see only rows that has established year < 1800
 
-![](images/shot5.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot5.PNG)
  
  Step 12 : We use mutate() function to create a new column called location that has city and state.
  
-![](images/shot6.png) 
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot6.PNG) 
 
 Step 13 : Next we use arrange() function to have the rows in the order of descending order of established date
 
-![](images/shot7.png)
+![](https://github.com/Krisdoddala/Project1/blob/master/images/shot7.PNG)
 
 Step 14 : Next we use summarise() function to calculate the average year of the colleges
 
- ![](images/shot8.png)
+ ![](https://github.com/Krisdoddala/Project1/blob/master/images/shot8.PNG)
 
 
 
