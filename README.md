@@ -56,6 +56,7 @@ Step 14 : Next we use summarise() function to calculate the average year of the 
 
  ![](https://github.com/Krisdoddala/Project1/blob/master/images/shot8.PNG)
 
+If you have any questions regarding this project, feel free to email me at kris.doddala@gmail.com. Thank you and hope to hear from you soon:)
 
 
 
